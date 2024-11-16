@@ -1,44 +1,3 @@
-/* body{ 
-    background-color: #FFEBC1;
-} */
-
-/* img {
-    width: 55%;
-    border-radius: 8px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-} */
-
-h3{
-    font-family: "M PLUS Rounded 1c", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    background-color: #ede1d3;
-    padding-left: 2px;
-    padding-right: 2px;
-}
-
-h2 {
-    font-family: "M PLUS Rounded 1c", sans-serif;
-    background-color: #ede1d3;
-    font-style: normal;
-    font-weight: 400;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 10px;
-}
-
-#main-text {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 70px !important;
-    
-}
-
-
 .navbar {
     background-color: #bc9b8d !important;
 }
@@ -56,22 +15,6 @@ h2 {
     font-style: normal;
 }
 
-#primary{
-    background-image: url('assets/images/try.jpg');
-    background-size: cover;
-    background-position: center;
-    position: relative;
-  }
-
-#navbarsExample02 {
-    margin-top: 20px;
-}
-
-#categories-section{
-    background-color: #bc9b8d !important;
-    padding: 10px 0; 
-}
-
 #categories-section .navbar-nav .nav-item {
     margin: 0 20px; 
 }
@@ -79,7 +22,6 @@ h2 {
 #categories-section .navbar-nav .nav-link {
     font-size: 1.3rem;  
     text-align: center;  
-
 }
 
 #dropdownitem{
@@ -93,23 +35,10 @@ h2 {
     background-color: #ede1d3;
 }
 
-#carousel-item0 .carousel-caption {
-  text-align: left; 
-}
 
-#carousel-item0 .img-fluid {
-  height: auto; 
-  max-width: 100%; 
-}
-
-#carousel-item0 .image-column {
-    background-image: url('assets/images/photo_2024-05-13_19-44-20.jpg'); /* Path to the image */
-    background-size: cover; /* Ensure the image covers the div */
-    background-position: center; /* Center the image */
-    height: 500px; /* Set a height */
-    width: 100%; /* Full width of the column */
-  }
-  
+#carousel-item0 {
+    background-image: url('assets/images/photo_2024-05-13_19-54-48.jpg');
+  }  
 
 /*similar fonts are: 1. tenor sans 2.Julius Sans One 3.Oregano 4.Ysabeau Office 5.Ysabeau SC 6.Ysabeau Infant/
 
