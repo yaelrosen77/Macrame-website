@@ -36,15 +36,14 @@
 }
 
 
-#carousel-item0 {
+#carousel-img0 {
     background-image: url('assets/images/photo_2024-05-13_19-54-48.jpg');
   }  
 
-/*similar fonts are: 1. tenor sans 2.Julius Sans One 3.Oregano 4.Ysabeau Office 5.Ysabeau SC 6.Ysabeau Infant/
+#carousel-img1 {
+    background-image: url('/assets/images/secondcarousel.jpg');
+}
 
-/*
-to do next - 1. check if its better to put the sign in the middle (maybe without the svg or just as an icon)
-2. to pick a picture from library in an assign next to it a colored screen where the text would be
-
-
-*/
+#carousel-img2{
+    background-image: url('/assets/images/thirdcarousel.jpg');
+}
