@@ -11,7 +11,7 @@ toc: true
 
 ## How it works
 
-The accordion uses [collapse]({% link components/collapse.md %}) internally to make it collapsible.
+The accordion uses [collapse]({% link collapse.md %}) internally to make it collapsible.
 {% include callouts/info-prefersreducedmotion.md %}
 
 ## Example
@@ -143,7 +143,7 @@ Omit the `data-bs-parent` attribute on each `.accordion-collapse` to make accord
 
 ## Accessibility
 
-Please read the [collapse accessibility section]({% link components/collapse.md %}) for more information.
+Please read the [collapse accessibility section]({% link collapse.md %}) for more information.
 
 ## CSS
 
