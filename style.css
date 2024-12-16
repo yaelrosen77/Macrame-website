@@ -37,29 +37,30 @@
 
 #carousel-img0 {
     background-image: url('assets/images/try.jpg');
-    height: 70vh;
-    fill-opacity: 0.2;
 }  
 
 #carousel-img1 {
     background-image: url('/assets/images/secondcarousel.jpg');
-    height: 70vh;
-    fill-opacity: 0.2;
 }
 
 #carousel-img2{
     background-image: url('/assets/images/thirdcarousel.jpg');
-    height: 70vh;
-    fill-opacity: 0.2;
 }
 
 .carousel-caption{
-    color: #282727fe;
-    background-color: rgb(250, 243, 240);   
-    opacity: 0.5;
+    background-color: rgba(250, 243, 240, 0.5);  
+    color: #272626;
     display: inline-block;
 }
 
 .carousel-caption p {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
+}
+
+#carousel-img0, #carousel-img1, #carousel-img2 {
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 70vh; 
+    fill-opacity: 0.2;
 }
