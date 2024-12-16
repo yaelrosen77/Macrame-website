@@ -35,15 +35,31 @@
     background-color: #ede1d3;
 }
 
-
 #carousel-img0 {
     background-image: url('assets/images/try.jpg');
+    height: 70vh;
+    fill-opacity: 0.2;
 }  
 
 #carousel-img1 {
     background-image: url('/assets/images/secondcarousel.jpg');
+    height: 70vh;
+    fill-opacity: 0.2;
 }
 
 #carousel-img2{
     background-image: url('/assets/images/thirdcarousel.jpg');
+    height: 70vh;
+    fill-opacity: 0.2;
+}
+
+.carousel-caption{
+    color: #282727fe;
+    background-color: rgb(250, 243, 240);   
+    opacity: 0.5;
+    display: inline-block;
+}
+
+.carousel-caption p {
+    font-size: 1.2rem;
 }
