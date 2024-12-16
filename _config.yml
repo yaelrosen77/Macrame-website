@@ -1,0 +1,13 @@
+title: My Jekyll Site
+description: A Jekyll site using Bootstrap
+baseurl: "" 
+url: "https://yaelrosen77.github.io" 
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-titles-from-headings
+markdown: kramdown
