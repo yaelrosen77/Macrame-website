@@ -77,6 +77,18 @@
     background-color: hsl(21, 16%, 46%);
     border: none;              
     box-shadow: none;          
-    outline: none;             
+    outline: none;  
+    margin-right: 10px;
 }
 
+#macarth{
+    padding-left: 10px;
+}
+
+#macartp{
+    padding-left: 10px;
+}
+
+#byorderh, #byorderp {
+    padding-right: 10px;
+}
